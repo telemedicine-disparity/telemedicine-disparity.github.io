@@ -1,0 +1,6 @@
+{%- assign social = site.minima.social_links -%}
+
+<ul class="social-media-list">
+  {%- if social.twitter -%}<li><a rel="me" href="https://twitter.com/{{ social.twitter | cgi_escape | escape }}" target="_blank" title="{{ social.twitter | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg>Twitter</a></li>{%- endif -%}
+  {%- if social.website -%}<li><a rel="me" href="https://{{ social.website | cgi_escape | escape }}" target="_blank" title="{{ social.website | escape }}">{{social.website}}</a></li>{%- endif -%}
+</ul>

@@ -7,6 +7,7 @@ paper: https://doi.org/10.1016/j.ipemt.2022.100010
 title: Telemedicine and Health Disparities during COVID 19
 ---
 
+![](https://thumbs.dreamstime.com/b/african-female-doctor-talk-to-patient-telemedicine-online-webcam-video-call-make-black-woman-therapist-videoconferencing-188810297.jpg)
 ## Highlights
 * Telemedicine use is lower in female, or uninsured patients, and aged 65 and older.
 
