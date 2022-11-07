@@ -4,6 +4,7 @@ date: 2022-10-30
 description: "Association between Patient Characteristics and Telemedicine, In-person, Telephone and message-based Care During the COVID-19 Pandemic"
 author: Ling Tong, Ben George, Bradley Crotty, Somai Melek, Bradley Taylor, Kristen Osinski, Jake Luo
 paper: https://doi.org/10.1016/j.ipemt.2022.100010
+title: 
 ---
 
 ## Highlights
